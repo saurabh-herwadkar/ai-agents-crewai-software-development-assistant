@@ -1,2 +1,6 @@
-# ai-agents-crewai-software-development-assistant
-ai-agents-crewai-software-development-assistant
+
+
+###Commands to run
+
+poetry install
+poetry run run-job-posting-crew 
